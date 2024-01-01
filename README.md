@@ -1,5 +1,3 @@
-# Code-Xerox (30/08/23)
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
