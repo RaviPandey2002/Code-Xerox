@@ -3,14 +3,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BornPsych/code-xerox-v1/">
+  <a href="https://github.com/RaviPandey2002/Code-Xerox">
     <img src="public/IMG/logo.png" alt="Logo" width="150" height="140">
   </a>
 
   <h1 align="center">Code Xerox</h1>
 
   <p align="left">
-   <!-- A collaborative code editor with live code sharing and video calling. Try out with this given <a href="https://bornpsych-codexerox.herokuapp.com/">Project link</a>. -->
+   <!-- A collaborative code editor with live code sharing and video calling. Try out with this given <a href="https://bornpsych-codexerox.herokuapp.com/">Project link</a>. 
+   https://code-xerox-i8fr.onrender.com/7b8e8984-fa4f-47db-8dd7-a9736322a016?host=_
+   -->
   </p>
 </div>
 
