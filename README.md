@@ -10,9 +10,7 @@
   <h1 align="center">Code Xerox</h1>
 
   <p align="left">
-   <!-- A collaborative code editor with live code sharing and video calling. Try out with this given <a href="https://bornpsych-codexerox.herokuapp.com/">Project link</a>. 
-   https://code-xerox-i8fr.onrender.com/7b8e8984-fa4f-47db-8dd7-a9736322a016?host=_
-   -->
+   A collaborative code editor with live code sharing and video calling. Try out with this given <a href="https://code-xerox-i8fr.onrender.com/7b8e8984-fa4f-47db-8dd7-a9736322a016?host=_">Project link</a>.   
   </p>
 </div>
 
