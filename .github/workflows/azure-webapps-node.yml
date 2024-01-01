@@ -64,5 +64,5 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           slot-name: 'production'
-          publish-profile: ${ secrets.AZURESECRET }
+          publish-profile: ${ secrets.ANOTHER_SECRET}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
