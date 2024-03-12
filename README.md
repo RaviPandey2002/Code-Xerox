@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 
-<img src="public/IMG/Main.png" alt="Logo" width="1000" height="576">
+<img src="public/IMG/main.png" alt="Logo" width="1000" height="576">
 
 <img src="public/IMG/home.png" alt="Logo" width="1000" height="576">
 
