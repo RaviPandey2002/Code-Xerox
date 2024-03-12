@@ -97,7 +97,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   gh repo clone BornPsych/code-xerox-v1
+   gh repo clone https://github.com/RaviPandey2002/Code-Xerox.git
    ```
 2. Install NPM packages
    ```sh
